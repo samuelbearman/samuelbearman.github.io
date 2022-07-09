@@ -1,0 +1,14 @@
+baseURL = "https://samuelbearman.github.io/"
+languageCode = "en-us"
+title = "Security Researcher Guy"
+theme = "researcher"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 3
